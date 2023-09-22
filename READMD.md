@@ -22,3 +22,9 @@ Some of the players in this field are  **Phone Pe**  **Paytm**  **Google Pay**, 
 ---
 **Phone Pe**  is such a big company in its sector that the Government of India had asked them to curb their marketing activities in an effort to avoid creating a monopoly. With an already existing gigantic customer base, the company should consider diversifying into ONDC based shopping, stockbroking and lending.I believe that **Phone Pe** won't face any technological challenges in their efforts to expand in these sectors, as the technology is already available i.e it  does not require any innovation, and secondly because there is an ample supply of technology workforce  available  in India.
 
+*Sources*
+---
+1. [Phone Pe Wikipedea](https://en.wikipedia.org/wiki/PhonePe)
+2. [UPI Wikipedia](https://en.wikipedia.org/wiki/Unified_Payments_Interface)    
+3. [Deccan Herald](https://www.deccanherald.com/business/paytm-beats-phonepe-google-pay-as-indias-highest-revenue-earner-in-mobile-payments-financial-services-1217481.html)
+4. [Crunchbase](https://www.crunchbase.com/organization/phonepe)
