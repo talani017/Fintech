@@ -11,7 +11,7 @@ This has had a great impact in India, with people being able to transfer money i
 
 # Competitors
 ---
-Some of the players in this field are  **Phone Pe**  **Paytm**  **Google Pay**, **Amazon Pay**, **CRED** but the major competitors to **Phone Pe** are   **Paytm** and **Google Pay**. **Paytm** has the largest revenue of any  payments company in India, wit it being almost $1 billion. **Paytm's** Q4 revenue of $281million alone was greater the **PhonePe's** revenue of $230 million for the firstb9 months of 2022.Inspite of this **Phone Pe** boasts of largest market share in this sector.  As of June 2023 the marketshare is as shown with the above 3 accounting for almost 94% market share.
+Some of the players in this field are  **Phone Pe**  **Paytm**  **Google Pay**, **Amazon Pay**, **CRED** but the major competitors to **Phone Pe** are   **Paytm** and **Google Pay**. **Paytm** has the largest revenue of any  payments company in India, wit it being almost $1 billion. **Paytm's** Q4 revenue of $281 million alone was greater the **PhonePe's** revenue of $230 million for the first 9 months of 2022.Inspite of this **Phone Pe** boasts of largest market share in this sector.  As of June 2023 the marketshare is as shown with the above 3 accounting for almost 94% market share.
 
 
 ![Marketshare](Marketsharejune2023.jpg)
